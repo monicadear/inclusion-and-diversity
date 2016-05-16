@@ -31,6 +31,7 @@ https://www.recurse.com/manual#sec-environment
 
 # Next steps
 - Literally continuing the conversation: Tuesday May 17 from 6 - 8 PST in IRC's #drupal-diversity channel.
+- A diversity survey is being drafted in the open. Please contribute: https://github.com/drnikki/diversity-survey
 
 # Contact:
 - drnikki on IRC and Twitter
