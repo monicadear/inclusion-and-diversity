@@ -30,7 +30,8 @@ https://www.recurse.com/manual#sec-environment
 - Start a camp-level diversity initiative template that camps can use and try to start one at the DA level at the same time.
 
 # Next steps
-- Literally continuing the conversation: Tuesday May 17 from 6 - 8 PST in IRC's #drupal-diversity channel.
+- Literally continuing the conversation: Tuesday May 17 from 6 - 8pm PST in IRC's #drupal-diversity channel.
+- A diversity survey is being drafted in the open. Please contribute: https://github.com/drnikki/diversity-survey
 
 # Contact:
 - drnikki on IRC and Twitter
